@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Lek Documentations',
+  tagline: 'No pains, no gains',
+  favicon: 'lek.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -76,9 +76,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Lek Documentation',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Lek Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -88,7 +88,13 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'practicalSidebar',
+            position: 'left',
+            label: 'Practical',
+          },
+          {to: '/blog', label: 'About Me', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -100,7 +106,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documents',
             items: [
               {
                 label: 'Tutorial',

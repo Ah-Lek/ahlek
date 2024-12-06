@@ -1,29 +1,19 @@
 ---
 slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
+title: About Me
+authors: [lek]
 tags: [facebook, hello, docusaurus]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+**Welcome to Lek Documentation!**
 
-Here are a few tips you might find useful.
+Hello and welcome to my online learning and reference platform! 🎉🎉🎉
 
-<!-- truncate -->
+This website is designed to be a hub for knowledge, inspiration, and growth. Whether you're a student, professional, or curious mind, you'll find a wealth of resources here to explore, learn, and achieve your goals.
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Our goal is to provide a comprehensive and user-friendly space for learners of all levels. From detailed tutorials and insightful articles to practical examples and reference materials, we’re here to support your journey every step of the way.
 
-Regular blog authors can be added to `authors.yml`.
+Let us know how we can make your learning experience even better. Together, let’s build a brighter, more informed future.
 
-The blog post date can be extracted from filenames, such as:
+Thank you for visiting, and happy learning! 🚀
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.

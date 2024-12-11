@@ -15,7 +15,7 @@ const config = {
   favicon: 'lek.ico',
 
   // Set the production url of your site here
-  url: 'https://Ah-Lek.github.io',
+  url: 'https://Ah-Lek.github.io/ahlek',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/lek/',

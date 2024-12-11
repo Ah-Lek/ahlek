@@ -1,8 +1,8 @@
 ---
-sidebar_position: 14
+sidebar_position: 15
 ---
 
-# 14. Booting and Running Linux
+# 15. Booting and Running Linux
 
 1) Please connect USB Type-micro-B cable to CN14
 

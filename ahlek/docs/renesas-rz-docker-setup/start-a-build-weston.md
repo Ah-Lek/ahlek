@@ -1,8 +1,8 @@
 ---
-sidebar_position: 11
+sidebar_position: 12
 ---
 
-# 11. Start a Build (Core-Image-Weston)
+# 12. Start a Build (Core-Image-Weston)
 
 Run the commands below to start a build. In this tutorial, you will build the **Core-Image-Weston**, building this image can take up to a few hours depending on the user’s host system performance. Please always check for remaining free space of the harddisk.
 

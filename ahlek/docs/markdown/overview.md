@@ -150,3 +150,5 @@ There are lots of resources you can use to learn Markdown. Here are some other i
 - Markdown Tutorial. An open source website that allows you to try Markdown in your web browser.
 - Awesome Markdown. A list of Markdown tools and learning resources.
 - Typesetting Markdown. A multi-part series that describes an ecosystem for typesetting Markdown documents using pandoc and ConTeXt.
+
+Let's Try: [https://www.markdownguide.org/](https://www.markdownguide.org/)

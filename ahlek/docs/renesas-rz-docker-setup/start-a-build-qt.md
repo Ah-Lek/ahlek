@@ -1,8 +1,8 @@
 ---
-sidebar_position: 12
+sidebar_position: 13
 ---
 
-# 12. Start a Build (Core-Image-Qt)
+# 13. Start a Build (Core-Image-Qt)
 
 You also need to build the **Core-Image-Qt**, before you build the image, please make sure to initialize the build enviroment again.
 

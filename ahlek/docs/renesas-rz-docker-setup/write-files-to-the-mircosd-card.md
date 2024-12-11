@@ -1,8 +1,8 @@
 ---
-sidebar_position: 13
+sidebar_position: 14
 ---
 
-# 13. Write Files to the MicroSD Card (Used Wic Image)
+# 14. Write Files to the MicroSD Card (Used Wic Image)
 
 After complete build the **core-image-weston** and **core-image-qt**, please download this file by using this command.
 

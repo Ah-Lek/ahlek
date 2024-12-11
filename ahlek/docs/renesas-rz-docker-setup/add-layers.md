@@ -1,8 +1,8 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 ---
 
-# 8. Add Layers
+# 9. Add Layers
 
 Please follow the below steps to add the necessary layers you need. The steps add the settings to bblayers.conf (configration file for layers).
 

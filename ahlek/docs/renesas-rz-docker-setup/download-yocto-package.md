@@ -1,8 +1,8 @@
 ---
-sidebar_position: 9
+sidebar_position: 11
 ---
 
-# 9. Download RZ/G2L- EVKIT Yocto Package
+# 11. Download RZ/G2L- EVKIT Yocto Package
 
 Before you start to build, please download RZ/G2L- EVKIT Yocto Package [downloads.tar.gz](http://192.168.113.104/rz/orig/rzg/downloads.tar.gz). 
 

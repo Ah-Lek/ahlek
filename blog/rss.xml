@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Lek Documentations Blog</title>
-        <link>https://Ah-Lek.github.io/ahlek/lek/blog</link>
+        <link>https://Ah-Lek.github.io/ahlek/blog</link>
         <description>Lek Documentations Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[About Me]]></title>
-            <link>https://Ah-Lek.github.io/ahlek/lek/blog/welcome</link>
-            <guid>https://Ah-Lek.github.io/ahlek/lek/blog/welcome</guid>
+            <link>https://Ah-Lek.github.io/ahlek/blog/welcome</link>
+            <guid>https://Ah-Lek.github.io/ahlek/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to Lek Documentation!]]></description>
             <content:encoded><![CDATA[<p><strong>Welcome to Lek Documentation!</strong></p>
